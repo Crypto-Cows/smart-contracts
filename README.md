@@ -14,7 +14,7 @@ The main reasons we do this are:
 - To encourage other developers to take a cue from our applications and perhaps release better versions of our applications.
 
 # Links
-Website: https://www.crypto-cows.com/
-Twitter: https://twitter.com/CryptoCowsNFT
-Discord: https://discord.gg/VwYrYjng
-Telegram: https://t.me/cryptocowsnft
+- Website: https://www.crypto-cows.com/
+- Twitter: https://twitter.com/CryptoCowsNFT
+- Discord: https://discord.gg/VwYrYjng
+- Telegram: https://t.me/cryptocowsnft
