@@ -1259,7 +1259,7 @@ contract CryptoCowsNFT is ERC721Enumerable, Ownable {
 
   string public baseURI;
   string public baseExtension = ".json";
-  uint256 public cost = 0.001 ether;
+  uint256 public cost = 15 ether;
   uint256 public maxSupply = 500;
   uint256 public maxMintAmount = 30;
   bool public paused = false;
