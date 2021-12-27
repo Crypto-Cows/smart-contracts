@@ -1260,8 +1260,8 @@ contract CryptoCowsNFT is ERC721Enumerable, Ownable {
   string public baseURI;
   string public baseExtension = ".json";
   uint256 public cost = 15 ether;
-  uint256 public maxSupply = 500;
-  uint256 public maxMintAmount = 30;
+  uint256 public maxSupply = 10000;
+  uint256 public maxMintAmount = 70;
   bool public paused = false;
   mapping(address => bool) public whitelisted;
 
@@ -1271,7 +1271,7 @@ contract CryptoCowsNFT is ERC721Enumerable, Ownable {
     string memory _initBaseURI
   ) ERC721(_name, _symbol) {
     setBaseURI(_initBaseURI);
-    mint(msg.sender, 25);
+    mint(msg.sender, 60);
   }
 
   // internal
