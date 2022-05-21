@@ -16,5 +16,5 @@ The main reasons we do this are:
 # Links
 - Website: https://www.crypto-cows.com/
 - Twitter: https://twitter.com/CryptoCowsNFT
-- Discord: https://discord.gg/VwYrYjng
+- Discord: https://discord.gg/su7fqSrhby
 - Telegram: https://t.me/cryptocowsnft
